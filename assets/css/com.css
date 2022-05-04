@@ -249,7 +249,7 @@ tr {
       padding: 0 15px; 
       white-space: normal; 
       font-size: 25px;
-      color: #ff007f; 
+      color: black; 
       font-family: Oswald; 
       font-weight: bold; 
       text-shadow: #000000 0px 1px 0px;
@@ -266,7 +266,7 @@ tr {
       z-index: 1; 
       margin: .2em 0 -.5em; 
       font-size: 15px; 
-      color: #f5e051; 
+      color: yellow; 
       font-family: Cabin; 
       font-weight: bold; 
       font-style: italic;
